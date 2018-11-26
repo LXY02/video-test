@@ -30,3 +30,9 @@
     transform: rotate(360deg);
   }
 }
+
+video {
+    width: 300px;
+    height: 500px;
+    margin: 0 auto;
+}
